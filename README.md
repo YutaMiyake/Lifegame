@@ -44,5 +44,8 @@ $ python3 life.py
 ## Reference
 http://aidiary.hatenablog.com/entry/20080914/1281748797
 
+## Licence
+* MIT License
+
 ## Author
 * Yuta Miyake
